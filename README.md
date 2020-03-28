@@ -35,16 +35,16 @@
 ### Mobile
 
 ##### Splash Screen
-<p align="center">
-<img src="https://user-images.githubusercontent.com/40436472/77815188-32a0e800-7097-11ea-9b64-61f0c7adebad.jpeg" alt="Splash" />
+<p>
+<img src="https://user-images.githubusercontent.com/40436472/77815188-32a0e800-7097-11ea-9b64-61f0c7adebad.jpeg" alt="Splash" height="500" />
 </p>
 
 ##### Lista de Casos 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/40436472/77815190-3c2a5000-7097-11ea-8e31-253c8110038b.jpeg" alt="casos" />
+<p>
+<img src="https://user-images.githubusercontent.com/40436472/77815190-3c2a5000-7097-11ea-8e31-253c8110038b.jpeg" alt="casos" height="500"/>
 </p>
 
 ##### Detalhes do caso
-<p align="center">
-<img src="https://user-images.githubusercontent.com/40436472/77815192-43e9f480-7097-11ea-945e-904f151f1c49.jpeg" alt="Detalhes do Caso" />
+<p>
+<img src="https://user-images.githubusercontent.com/40436472/77815192-43e9f480-7097-11ea-945e-904f151f1c49.jpeg" alt="Detalhes do Caso" height="500" />
 </p>
